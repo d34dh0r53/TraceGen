@@ -5,8 +5,8 @@ Generate Openstackish Logs
 
 This generates multiline python like traceback messages ala OpenStack services.
 
-````
-./tracegen.py --help
+````bash
+tracegen.py --help
 Usage: tracegen.py [OPTIONS]
 
 Options:
