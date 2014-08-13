@@ -20,7 +20,7 @@ Options:
   --help            Show this message and exit.
   ````
 
-== Example Output ==
+## Example Output
 
 ````bash
 tracegen.py
